@@ -14,6 +14,8 @@ body{
     width: 300px;
     display: block; /*img por padrão é inlin*/
     margin: 20px auto; /* em cima e embaixo 20 e laterais, auto*/
+    box-shadow: 0px 4px 4px 0px #00000040;
+
 }
 
 main{
@@ -56,6 +58,7 @@ button{
     font-size: 18px;
     font-weight: 700;
     cursor: pointer;
+    box-shadow: 0px 4px 4px 0px #00000040;
 }
 
 button:hover{
